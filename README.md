@@ -1,15 +1,21 @@
-Comprehensive Git Tutorial for CS Students
-Introduction
+Comprehensive Git Tutorial for CS Students:
+
+Introduction:
+
 This tutorial is crafted for computer science students embarking on the journey of understanding and utilizing Git, the cornerstone of modern version control systems. By integrating a small coding project, this guide aims not only to teach the commands but also to provide a context for their application, ensuring students are well-equipped to use Git in their future projects.
 
-Prerequisites
+Prerequisites:
+
 Before we begin, ensure you have:
 
-Git installed on your computer. Installation guides for different operating systems can be found at Git's official site.
-A basic understanding of the command line interface (CLI).
-A text editor (VSCode, Sublime Text, Atom, etc.) installed.
-Setting Up Your First Git Repository
-Installation Check and Configuration
+- Git is installed on your computer
+
+Installation guides for different operating systems can be found at Git's official site:
+- A basic understanding of the command line interface (CLI).
+- A text editor (VSCode, Sublime Text, Atom, etc.) installed.
+- Setting Up Your First Git Repository
+- Installation Check and Configuration
+
 First, verify that Git is correctly installed and then configure your user information.
 
 Verify Installation: Open your terminal or command prompt and type:
