@@ -70,7 +70,7 @@ git checkout -b feature-subtraction
 
 ### Implementing Subtraction
 
-Enhance `calculator.py` with subtraction function:
+Make `calculator.py` better with subtraction function:
 
 ```python
 def subtract(x, y):
