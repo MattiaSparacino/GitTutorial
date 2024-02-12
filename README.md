@@ -1,5 +1,5 @@
 
-# Enhanced Git Tutorial with a Python Calculator Project
+# Git Tutorial with a Python Calculator Project
 
 Welcome to this comprehensive Git tutorial, where you'll learn the essentials of using Git through the command line through making a simple Python calculator. By the end of this tutorial, you'll have a good understanding of basic and intermediate Git operations, including stashes, branches, and merging.
 
