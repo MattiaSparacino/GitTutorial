@@ -9,7 +9,7 @@ Welcome to this comprehensive Git tutorial, where you'll learn the essentials of
 - Git installed on your local machine. 
 - A text editor or Integrated Development Environment (IDE) like VS Code, PyCharm, or Atom.
 
-## Initial Setup
+## Setup
 
 ### Creating Your Project Directory
 
